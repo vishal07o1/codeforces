@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
@@ -15,6 +15,7 @@
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -36,6 +37,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 
 ### strings
 
