@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (3)
 - [strings](#strings) (1)
 
@@ -49,6 +49,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 
 ### math
 
