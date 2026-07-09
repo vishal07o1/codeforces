@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 8 |
+| 15 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
@@ -55,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
