@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 17 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (11)
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ### brute force
 
