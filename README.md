@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 8 |
+| 24 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (14)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
 
@@ -54,6 +54,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
 
 ### implementation
 
@@ -81,6 +82,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vishal07o1/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/vishal07o1/codeforces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
 
 ### sortings
 
